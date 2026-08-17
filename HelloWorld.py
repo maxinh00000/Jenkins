@@ -1,1 +1,1 @@
-print("Hello World using PollSCN\n")
+print("Hello World using PollSCN for testing\n")
